@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTLT\\KT\\CaoNguyenGiaHuy_6551071035_VP101_LTTQ\\WinFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE5A474-D278-48EA-818C-C6CB216A79E7}|WinFormsApp\\WinFormsApp.csproj|d:\\btlt\\kt\\caonguyengiahuy_6551071035_vp101_lttq\\winformsapp\\winformsapp\\models\\dulieucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE5A474-D278-48EA-818C-C6CB216A79E7}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\models\\dulieucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE5A474-D278-48EA-818C-C6CB216A79E7}|WinFormsApp\\WinFormsApp.csproj|d:\\btlt\\kt\\caonguyengiahuy_6551071035_vp101_lttq\\winformsapp\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE5A474-D278-48EA-818C-C6CB216A79E7}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE5A474-D278-48EA-818C-C6CB216A79E7}|WinFormsApp\\WinFormsApp.csproj|d:\\btlt\\kt\\caonguyengiahuy_6551071035_vp101_lttq\\winformsapp\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE5A474-D278-48EA-818C-C6CB216A79E7}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE5A474-D278-48EA-818C-C6CB216A79E7}|WinFormsApp\\WinFormsApp.csproj|d:\\btlt\\kt\\caonguyengiahuy_6551071035_vp101_lttq\\winformsapp\\winformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE5A474-D278-48EA-818C-C6CB216A79E7}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BTLT\\KT\\CaoNguyenGiaHuy_6551071035_VP101_LTTQ\\WinFormsApp\\WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Form1.cs",
+              "ToolTip": "D:\\BTLT\\KT\\CaoNguyenGiaHuy_6551071035_VP101_LTTQ\\WinFormsApp\\WinFormsApp\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB0AAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T06:43:22.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\BTLT\\KT\\CaoNguyenGiaHuy_6551071035_VP101_LTTQ\\WinFormsApp\\WinFormsApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\BTLT\\KT\\CaoNguyenGiaHuy_6551071035_VP101_LTTQ\\WinFormsApp\\WinFormsApp\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAgwK8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T06:40:36.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DULIEUContext.cs",
+              "DocumentMoniker": "D:\\BTLT\\KT\\CaoNguyenGiaHuy_6551071035_VP101_LTTQ\\WinFormsApp\\WinFormsApp\\Models\\DULIEUContext.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Models\\DULIEUContext.cs",
+              "ToolTip": "D:\\BTLT\\KT\\CaoNguyenGiaHuy_6551071035_VP101_LTTQ\\WinFormsApp\\WinFormsApp\\Models\\DULIEUContext.cs",
+              "RelativeToolTip": "WinFormsApp\\Models\\DULIEUContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T06:28:08.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BTLT\\KT\\CaoNguyenGiaHuy_6551071035_VP101_LTTQ\\WinFormsApp\\WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Form1.cs",
+              "ToolTip": "D:\\BTLT\\KT\\CaoNguyenGiaHuy_6551071035_VP101_LTTQ\\WinFormsApp\\WinFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T06:27:08.888Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
